@@ -8,7 +8,7 @@ Note: Products and their info are pulled dynamically from the businesses Square 
 
 ## Table of Contents  
 1. [Features](#features)  
-   - [Login/Sign-Up Page](#login-sign-up-page)  
+   - [Login Sign-Up Page](#login-sign-up-page)  
    - [Main Page](#main-page)  
    - [Rewards Page](#rewards-page)  
    - [Menu Page](#menu-page)  
@@ -16,61 +16,61 @@ Note: Products and their info are pulled dynamically from the businesses Square 
    - [Cart Page](#cart-page)  
    - [Checkout Page](#checkout-page)  
    - [Google Maps Page](#google-maps-page)  
-   - [Extras Page](#extras-page)
+   - [Extras Page](#extras-page)  
 
 ---
 
 ## Features  
 
-### 🛠️ Login/Sign-Up Page  
+### Login Sign-Up Page  
 Enable users to create an account or log in securely to access personalized features.  
 ![Login Page](path/to/image_or_gif)  
 
 ---
 
-### 🏠 Main Page  
+### Main Page  
 The hub of the app, showcasing daily specials, a search bar, and navigation options for a seamless user experience.  
 ![Main Page](path/to/image_or_gif)  
 
 ---
 
-### 🎁 Rewards Page  
+### Rewards Page  
 Display your point total and browse available rewards. Redeem points for discounts or special offers.  
 ![Rewards Page](path/to/image_or_gif)  
 
 ---
 
-### 📜 Menu Page  
+### Menu Page  
 Explore the menu with a categorized layout and dynamic filters for quick access to desired items.  
 ![Menu Page](path/to/image_or_gif)  
 
 ---
 
-### ☕ Product Page  
+### Product Page  
 Dive into product details, including images, descriptions, prices, and customization options.  
 ![Product Page](path/to/image_or_gif)  
 
 ---
 
-### 🛒 Cart Page  
+### Cart Page  
 Review your selected items, adjust quantities, and see the total cost before proceeding to checkout.  
 ![Cart Page](path/to/image_or_gif)  
 
 ---
 
-### 💳 Checkout Page  
+### Checkout Page  
 A smooth and secure payment process using Square API. Choose pickup or delivery options and finalize your order.  
 ![Checkout Page](path/to/image_or_gif)  
 
 ---
 
-### 🗺️ Google Maps Page  
+### Google Maps Page  
 Locate nearby coffee shop branches and view pickup or delivery routes in real time.  
 ![Google Maps Page](path/to/image_or_gif)  
 
 ---
 
-### 🔧 Extras Page  
+### Extras Page  
 Access your account, settings, and other utilities. Manage themes, notifications, and more through a sleek modal interface.  
 ![Extras Page](path/to/image_or_gif)  
 
