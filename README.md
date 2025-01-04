@@ -7,7 +7,8 @@ Note: Products and their info are pulled dynamically from the businesses Square 
 ---
 
 ## Table of Contents  
-1. [Features](#features)  
+1. [Features](#features)
+   - [Demo](#demo)  
    - [Login Sign-Up Page](#login-sign-up-page)  
    - [Main Page](#main-page)  
    - [Rewards Page](#rewards-page)  
@@ -22,56 +23,67 @@ Note: Products and their info are pulled dynamically from the businesses Square 
 
 ## Features  
 
+### Demo
+Demo video can be downloaded here
+https://github.com/Nolan-Olhausen/Mobile-Ordering-App/blob/main/resources/ScreenRecording_01-03-2025%2018-48-51_1.mp4
+
+---
+
 ### Login Sign-Up Page  
 Enable users to create an account or log in securely to access personalized features.  
-![Login Page](path/to/image_or_gif)  
+<img src="https://github.com/Nolan-Olhausen/Mobile-Ordering-App/blob/main/resources/IMG_5489.png" alt="Onboarding Page" width=200 height=400> 
+<img src="https://github.com/Nolan-Olhausen/Mobile-Ordering-App/blob/main/resources/IMG_5490.png" alt="Login Page" width=200 height=400>  
+<img src="https://github.com/Nolan-Olhausen/Mobile-Ordering-App/blob/main/resources/IMG_5491.png" alt="Sign Up Page" width=200 height=400>  
 
 ---
 
 ### Main Page  
-The hub of the app, showcasing daily specials, a search bar, and navigation options for a seamless user experience.  
-![Main Page](path/to/image_or_gif)  
+The hub of the app, showcasing daily specials and navigation options for a seamless user experience.  
+<img src="https://github.com/Nolan-Olhausen/Mobile-Ordering-App/blob/main/resources/IMG_5492.png" alt="Main Page" width=200 height=400> 
 
 ---
 
 ### Rewards Page  
 Display your point total and browse available rewards. Redeem points for discounts or special offers.  
-![Rewards Page](path/to/image_or_gif)  
+<img src="https://github.com/Nolan-Olhausen/Mobile-Ordering-App/blob/main/resources/IMG_5493.png" alt="Main Page" width=200 height=400> 
 
 ---
 
 ### Menu Page  
 Explore the menu with a categorized layout and dynamic filters for quick access to desired items.  
-![Menu Page](path/to/image_or_gif)  
+<img src="https://github.com/Nolan-Olhausen/Mobile-Ordering-App/blob/main/resources/IMG_5494.png" alt="Main Page" width=200 height=400> 
 
 ---
 
 ### Product Page  
 Dive into product details, including images, descriptions, prices, and customization options.  
-![Product Page](path/to/image_or_gif)  
+<img src="https://github.com/Nolan-Olhausen/Mobile-Ordering-App/blob/main/resources/IMG_5495.png" alt="Main Page" width=200 height=400> 
+<img src="https://github.com/Nolan-Olhausen/Mobile-Ordering-App/blob/main/resources/IMG_5496.png" alt="Main Page" width=200 height=400> 
 
 ---
 
 ### Cart Page  
 Review your selected items, adjust quantities, and see the total cost before proceeding to checkout.  
-![Cart Page](path/to/image_or_gif)  
+<img src="https://github.com/Nolan-Olhausen/Mobile-Ordering-App/blob/main/resources/IMG_5497.png" alt="Main Page" width=200 height=400> 
 
 ---
 
 ### Checkout Page  
 A smooth and secure payment process using Square API. Choose pickup or delivery options and finalize your order.  
-![Checkout Page](path/to/image_or_gif)  
+<img src="https://github.com/Nolan-Olhausen/Mobile-Ordering-App/blob/main/resources/IMG_5498.png" alt="Main Page" width=200 height=400> 
 
 ---
 
 ### Google Maps Page  
 Locate nearby coffee shop branches and view pickup or delivery routes in real time.  
-![Google Maps Page](path/to/image_or_gif)  
+<img src="https://github.com/Nolan-Olhausen/Mobile-Ordering-App/blob/main/resources/IMG_5499.png" alt="Main Page" width=200 height=400> 
 
 ---
 
 ### Extras Page  
 Access your account, settings, and other utilities. Manage themes, notifications, and more through a sleek modal interface.  
-![Extras Page](path/to/image_or_gif)  
+<img src="https://github.com/Nolan-Olhausen/Mobile-Ordering-App/blob/main/resources/IMG_5500.png" alt="Main Page" width=200 height=400>
+<img src="https://github.com/Nolan-Olhausen/Mobile-Ordering-App/blob/main/resources/IMG_5501.png" alt="Main Page" width=200 height=400> 
+<img src="https://github.com/Nolan-Olhausen/Mobile-Ordering-App/blob/main/resources/IMG_5502.png" alt="Main Page" width=200 height=400> 
 
 ---
