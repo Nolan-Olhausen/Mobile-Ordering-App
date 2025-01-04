@@ -22,6 +22,7 @@ Note: Products and their info are pulled dynamically from the businesses Square 
 ---
 
 ## Features  
+Again this is under development and no where near polished, mainly showcasing the coded features and not a finalized project. When all features are implemented, UI will likely get a complete overhaul.
 
 ### Demo
 Demo video can be downloaded here
