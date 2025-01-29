@@ -76,7 +76,7 @@ A smooth and secure payment process using Square API. Choose pickup or delivery 
 ---
 
 ### Google Maps Page  
-Display coffee shop location with a live Google Maps view with a directions link and copy to clipboard.
+Display coffee shop location with a live Google Maps view with a directions link and copy to clipboard.  
 <img src="https://github.com/Nolan-Olhausen/Mobile-Ordering-App/blob/main/resources/IMG_5499.png" alt="Main Page" width=200 height=400> 
 
 ---
